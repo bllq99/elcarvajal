@@ -1,0 +1,47 @@
+nav {
+    background-color: brown;
+}
+
+.navbar-nav .nav-link {
+    color: aliceblue
+  }
+
+.c-item {
+    height: 480px;
+}
+
+.c-img {
+    height: 100%;
+    object-fit: cover;
+}
+
+section {
+    margin-bottom: 70px;
+}
+
+.promociones-h2 {
+    text-align: center;
+}
+
+.card-text {
+    font-size: 14px;
+  }
+
+.card-title {
+    color: brown;
+}
+
+footer {
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;   
+}
+
+footer a {
+    color: aliceblue;
+    font-size: 25px;
+  }
+  
+  footer a:hover {
+    color:darkgrey
+  }
