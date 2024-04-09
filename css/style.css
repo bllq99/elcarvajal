@@ -45,3 +45,7 @@ footer a {
   footer a:hover {
     color:darkgrey
   }
+
+  .nuestros-prod{
+    text-align: center;
+  }
