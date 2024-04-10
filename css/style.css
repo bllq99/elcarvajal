@@ -49,3 +49,17 @@ footer a {
   .nuestros-prod{
     text-align: center;
   }
+
+ .titulo{
+    text-align: center;
+  }
+
+  .texto{
+    text-align: center;
+    font-size: 25px;
+    margin: 20px;
+  }
+
+  .icon{
+    font-size: 25px;
+  }
