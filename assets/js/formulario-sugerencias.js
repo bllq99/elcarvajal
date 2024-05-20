@@ -23,7 +23,7 @@ function save(){
         }
         if(apellido === ""){
             console.log('Apellido vacío');
-            messageError = `${messageError} Debe ingresar su <b>apellido</b>.<br>"`;
+            messageError = `${messageError} Debe ingresar su <b>apellido</b>.<br>`;
             console.log(`messageError: ${messageError}`);
         }
         if(numero === ""){
@@ -51,7 +51,7 @@ function save(){
             document.getElementById('message-error').classList.add('show');
             document.getElementById('message-error').classList.remove('alert-danger');
             document.getElementById('message-error').classList.add('alert-success');
-            document.getElementById('message').innerHTML = 'Datos almacenados.';
+            document.getElementById('message').innerHTML = 'Sugerencia enviada.';
         }else{
             document.getElementById('message-error').classList.add('show');
             document.getElementById('message-error').classList.remove('alert-success');
