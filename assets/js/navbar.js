@@ -5,7 +5,7 @@ $( document ).ready(function(){
             <a class="nav-link"><img src="./assets/img/icon/El_Carvajal.ico" width="35px" alt="ICONO"></a></li>
         <li class="nav-item"><a class="nav-link" href="index.html">INICIO</a></li>
         <li class="nav-item"><a class="nav-link" href="productos.html">PRODUCTOS</a></li>
-        <li class="nav-item"><a class="nav-link" href="suegrencias.html">SUGERENCIAS</a></li>
+        <li class="nav-item"><a class="nav-link" href="sugerencias.html">SUGERENCIAS</a></li>
         <li class="nav-item"><a class="nav-link" href="contacto.html">CONTACTO</a></li>
       </a>
     </ul>
