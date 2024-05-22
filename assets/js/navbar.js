@@ -7,6 +7,7 @@ $( document ).ready(function(){
         <li class="nav-item"><a class="nav-link" href="productos.html">PRODUCTOS</a></li>
         <li class="nav-item"><a class="nav-link" href="sugerencias.html">SUGERENCIAS</a></li>
         <li class="nav-item"><a class="nav-link" href="contacto.html">CONTACTO</a></li>
+        <li class="nav-item"><a class="nav-link" href="cotiza.html">COTIZA TU ENTREGA</a></li>
       </a>
     </ul>
   </nav>`;
