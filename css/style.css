@@ -63,3 +63,15 @@ footer a {
   .icon{
     font-size: 25px;
   }
+  
+  #map {
+    width:  600px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 2em 0 0 0;
+  }
+
+  .contact{
+    text-align: center;
+    font-size: 25px;
+  }
